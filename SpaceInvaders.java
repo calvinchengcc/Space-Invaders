@@ -12,8 +12,8 @@ import javax.imageio.ImageIO;
 
 public class SpaceInvaders extends Panel implements KeyListener{
 	
-	public static final int WIDTH = (int) (Toolkit.getDefaultToolkit().getScreenSize().getWidth() - 100);
-	public static final int HEIGHT = (int) (Toolkit.getDefaultToolkit().getScreenSize().getHeight() - 200);;
+	public static final int WIDTH = (int) (Toolkit.getDefaultToolkit().getScreenSize().getWidth() - 101);
+	public static final int HEIGHT = (int) (Toolkit.getDefaultToolkit().getScreenSize().getHeight() - 199);;
 	
 	private static final int START_BULLETS = 60;
 	
